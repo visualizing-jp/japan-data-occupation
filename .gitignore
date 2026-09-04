@@ -42,3 +42,6 @@ coverage/
 
 # macOS
 .DS_Store
+
+# Local Netlify folder
+.netlify
